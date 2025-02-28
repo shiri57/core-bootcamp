@@ -1,0 +1,12 @@
+{
+	"name": "pluto",
+	"description": "OIIA OIIIOI AI",
+	"symbol": "smol",
+	"image":"https://imgur.com/gallery/best-image-of-pluto-yet-released-Rnj7kZj.jpeg",
+	"attributes": [
+    	{
+        	"trait_type": "planet",
+        	"value": "smol"
+    	}
+	]
+}
